@@ -1,0 +1,22 @@
+/*Stylesheet for ItsMePapaD.html*/
+* {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	background-color: Snow;
+}
+
+h1 {
+	color: #294870;
+	text-align: center;
+	font-size: 60px;
+	letter-spacing: 0.1em;
+}
+
+p {
+	font-size: 20px;
+	color: #627FA3;
+	letter-spacing: 0.1em;
+}
+
+
+
